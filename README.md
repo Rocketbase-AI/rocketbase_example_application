@@ -5,7 +5,7 @@
 In order to use run this application on your device(s) you will require the following:
 
 * Node.JS >= v10.0
-* NPM or Yarn
+* Yarn
 * Expo
 
 ## Installation
